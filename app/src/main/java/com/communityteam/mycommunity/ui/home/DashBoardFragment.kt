@@ -17,4 +17,7 @@ class DashBoardFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_dash_board , container, false)
     }
 
+    override fun onDestroyView() {
+        super.onDestroyView()
+    }
 }
