@@ -21,7 +21,6 @@ class DashBoardFragment : Fragment() {
         super.onDestroyView()
     }
 
-    // test
     /**
      * 1. make change in files
      * 2. stage the change
