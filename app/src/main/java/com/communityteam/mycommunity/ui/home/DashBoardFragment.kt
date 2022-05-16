@@ -20,4 +20,11 @@ class DashBoardFragment : Fragment() {
     override fun onDestroyView() {
         super.onDestroyView()
     }
+
+    /**
+     * 1. make change in files
+     * 2. stage the change
+     * 3. commit
+     * 4. push
+     */
 }
