@@ -53,6 +53,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
+        // switch to register page by clicking the Register Button
         registerbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
